@@ -1,0 +1,1724 @@
+[
+    {
+        "github_profile": "https://github.com/theengineear",
+        "archive_path": "repo_archives/plotly.py.zip",
+        "repository": "https://github.com/plotly/plotly.py",
+        "name": "Andrew",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/CyberDem0n",
+        "archive_path": "repo_archives/patroni.zip",
+        "repository": "https://github.com/patroni/patroni",
+        "name": "Alexander Kukushkin",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/toluaina",
+        "archive_path": "repo_archives/pgsync.zip",
+        "repository": "https://github.com/toluaina/pgsync",
+        "name": "Tolu Aina",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/ronnix",
+        "archive_path": "repo_archives/fabtools.zip",
+        "repository": "https://github.com/fabtools/fabtools",
+        "name": "Ronan Amicel",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/aantn",
+        "archive_path": "repo_archives/robusta.zip",
+        "repository": "https://github.com/robusta-dev/robusta",
+        "name": "Natan Yellin",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/kaedroho",
+        "archive_path": "repo_archives/wagtail.zip",
+        "repository": "https://github.com/wagtail/wagtail",
+        "name": "Karl Hobley",
+        "email": "karl@kaed.uk"
+    },
+    {
+        "github_profile": "https://github.com/frosty00",
+        "archive_path": "repo_archives/ccxt.zip",
+        "repository": "https://github.com/ccxt/ccxt",
+        "name": "Carlo Revelli",
+        "email": "carlo.revelli@berkeley.edu"
+    },
+    {
+        "github_profile": "https://github.com/nguyenkims",
+        "archive_path": "repo_archives/app.zip",
+        "repository": "https://github.com/simple-login/app",
+        "name": "Son Nguyen Kim",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/dgtlmoon",
+        "archive_path": "repo_archives/changedetection.io.zip",
+        "repository": "https://github.com/dgtlmoon/changedetection.io",
+        "name": "dgtlmoon",
+        "email": "dgtlmoon@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/shaohuzhang1",
+        "archive_path": "repo_archives/MaxKB.zip",
+        "repository": "https://github.com/1Panel-dev/MaxKB",
+        "name": null,
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/IanMeyers",
+        "archive_path": "repo_archives/amazon-redshift-utils.zip",
+        "repository": "https://github.com/awslabs/amazon-redshift-utils",
+        "name": "Ian Meyers",
+        "email": "meyersi@amazon.com"
+    },
+    {
+        "github_profile": "https://github.com/r0x0r",
+        "archive_path": "repo_archives/pywebview.zip",
+        "repository": "https://github.com/r0x0r/pywebview",
+        "name": "Roman",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/teetone",
+        "archive_path": "repo_archives/helm.zip",
+        "repository": "https://github.com/stanford-crfm/helm",
+        "name": "Tony Lee",
+        "email": "tonyh.lee@yahoo.com"
+    },
+    {
+        "github_profile": "https://github.com/yaakovi",
+        "archive_path": "repo_archives/content.zip",
+        "repository": "https://github.com/demisto/content",
+        "name": "Shai Yaakovi",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/hhyo",
+        "archive_path": "repo_archives/Archery.zip",
+        "repository": "https://github.com/hhyo/Archery",
+        "name": "\u5c0f\u5708\u5708",
+        "email": "rtttte@qq.com"
+    },
+    {
+        "github_profile": "https://github.com/BeryJu",
+        "archive_path": "repo_archives/authentik.zip",
+        "repository": "https://github.com/goauthentik/authentik",
+        "name": "Jens L.",
+        "email": "jens@beryju.org"
+    },
+    {
+        "github_profile": "https://github.com/maartenbreddels",
+        "archive_path": "repo_archives/solara.zip",
+        "repository": "https://github.com/widgetti/solara",
+        "name": "Maarten Breddels",
+        "email": "maartenbreddels@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/tomchristie",
+        "archive_path": "repo_archives/django-rest-framework.zip",
+        "repository": "https://github.com/encode/django-rest-framework",
+        "name": "Tom Christie",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/viyatb",
+        "archive_path": "repo_archives/owtf.zip",
+        "repository": "https://github.com/owtf/owtf",
+        "name": "Viyat",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/whummer",
+        "archive_path": "repo_archives/localstack.zip",
+        "repository": "https://github.com/localstack/localstack",
+        "name": "Waldemar Hummer",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/rbharath",
+        "archive_path": "repo_archives/deepchem.zip",
+        "repository": "https://github.com/deepchem/deepchem",
+        "name": "Bharath Ramsundar",
+        "email": "bharath@deepforestsci.com"
+    },
+    {
+        "github_profile": "https://github.com/avelino",
+        "archive_path": "repo_archives/mining.zip",
+        "repository": "https://github.com/mining/mining",
+        "name": "Avelino",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/LeonOstrez",
+        "archive_path": "repo_archives/gpt-pilot.zip",
+        "repository": "https://github.com/Pythagora-io/gpt-pilot",
+        "name": null,
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/alexcjohnson",
+        "archive_path": "repo_archives/dash.zip",
+        "repository": "https://github.com/plotly/dash",
+        "name": "Alex Johnson",
+        "email": "alex@plot.ly"
+    },
+    {
+        "github_profile": "https://github.com/nolar",
+        "archive_path": "repo_archives/kopf.zip",
+        "repository": "https://github.com/nolar/kopf",
+        "name": "Sergey Vasilyev",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/openoms",
+        "archive_path": "repo_archives/raspiblitz.zip",
+        "repository": "https://github.com/raspiblitz/raspiblitz",
+        "name": "openoms",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/binux",
+        "archive_path": "repo_archives/pyspider.zip",
+        "repository": "https://github.com/binux/pyspider",
+        "name": "Roy Binux",
+        "email": "roy@binux.me"
+    },
+    {
+        "github_profile": "https://github.com/parente",
+        "archive_path": "repo_archives/docker-stacks.zip",
+        "repository": "https://github.com/jupyter/docker-stacks",
+        "name": "Peter Parente",
+        "email": "parente@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/hoodmane",
+        "archive_path": "repo_archives/pyodide.zip",
+        "repository": "https://github.com/pyodide/pyodide",
+        "name": "Hood Chatham",
+        "email": "roberthoodchatham@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/VirtuBox",
+        "archive_path": "repo_archives/WordOps.zip",
+        "repository": "https://github.com/WordOps/WordOps",
+        "name": "VirtuBox",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/nfcampos",
+        "archive_path": "repo_archives/langgraph.zip",
+        "repository": "https://github.com/langchain-ai/langgraph",
+        "name": "Nuno Campos",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/joeyorlando",
+        "archive_path": "repo_archives/oncall.zip",
+        "repository": "https://github.com/grafana/oncall",
+        "name": "Joey Orlando",
+        "email": "joseph.t.orlando@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/cyberdelia",
+        "archive_path": "repo_archives/django-pipeline.zip",
+        "repository": "https://github.com/jazzband/django-pipeline",
+        "name": "Timoth\u00e9e Peignier",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/itamarst",
+        "archive_path": "repo_archives/eliot.zip",
+        "repository": "https://github.com/itamarst/eliot",
+        "name": "Itamar Turner-Trauring",
+        "email": "itamar@itamarst.org"
+    },
+    {
+        "github_profile": "https://github.com/asergi",
+        "archive_path": "repo_archives/glances.zip",
+        "repository": "https://github.com/nicolargo/glances",
+        "name": "Alessio Sergi",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/pirate",
+        "archive_path": "repo_archives/ArchiveBox.zip",
+        "repository": "https://github.com/ArchiveBox/ArchiveBox",
+        "name": "Nick Sweeting",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/sudoskys",
+        "archive_path": "repo_archives/Openaibot.zip",
+        "repository": "https://github.com/LlmKira/Openaibot",
+        "name": "Jasmine",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/ehofesmann",
+        "archive_path": "repo_archives/fiftyone.zip",
+        "repository": "https://github.com/voxel51/fiftyone",
+        "name": "Eric Hofesmann",
+        "email": "ehofesmann@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/abi",
+        "archive_path": "repo_archives/screenshot-to-code.zip",
+        "repository": "https://github.com/abi/screenshot-to-code",
+        "name": "Abi Raja",
+        "email": "abimanyuraja@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/Natim",
+        "archive_path": "repo_archives/kinto.zip",
+        "repository": "https://github.com/Kinto/kinto",
+        "name": "R\u00e9my HUBSCHER",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/zgqgit",
+        "archive_path": "repo_archives/bisheng.zip",
+        "repository": "https://github.com/dataelement/bisheng",
+        "name": "GuoQing Zhang",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/crossoverJie",
+        "archive_path": "repo_archives/JCSprout.zip",
+        "repository": "https://github.com/crossoverJie/JCSprout",
+        "name": "crossoverJie",
+        "email": "crossoverJie@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/vlsi",
+        "archive_path": "repo_archives/pgjdbc.zip",
+        "repository": "https://github.com/pgjdbc/pgjdbc",
+        "name": "Vladimir Sitnikov",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/davidxia",
+        "archive_path": "repo_archives/helios.zip",
+        "repository": "https://github.com/spotify/helios",
+        "name": "David Xia",
+        "email": "david@davidxia.com"
+    },
+    {
+        "github_profile": "https://github.com/vintagewang",
+        "archive_path": "repo_archives/rocketmq.zip",
+        "repository": "https://github.com/apache/rocketmq",
+        "name": "Xiaorui Wang",
+        "email": "vintagewang@apache.org"
+    },
+    {
+        "github_profile": "https://github.com/s1monw",
+        "archive_path": "repo_archives/OpenSearch.zip",
+        "repository": "https://github.com/opensearch-project/OpenSearch",
+        "name": "Simon Willnauer",
+        "email": "simonw@apache.org"
+    },
+    {
+        "github_profile": "https://github.com/spennihana",
+        "archive_path": "repo_archives/h2o-2.zip",
+        "repository": "https://github.com/h2oai/h2o-2",
+        "name": "spen",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/dadoonet",
+        "archive_path": "repo_archives/fscrawler.zip",
+        "repository": "https://github.com/dadoonet/fscrawler",
+        "name": "David Pilato",
+        "email": "david@pilato.fr"
+    },
+    {
+        "github_profile": "https://github.com/vladimir-bukhtoyarov",
+        "archive_path": "repo_archives/bucket4j.zip",
+        "repository": "https://github.com/bucket4j/bucket4j",
+        "name": "Vladimir Bukhtoyarov",
+        "email": "jsecoder@mail.ru"
+    },
+    {
+        "github_profile": "https://github.com/hgschmie",
+        "archive_path": "repo_archives/jdbi.zip",
+        "repository": "https://github.com/jdbi/jdbi",
+        "name": "Henning Schmiedehausen",
+        "email": "henning@schmiedehausen.org"
+    },
+    {
+        "github_profile": "https://github.com/fusesource-ci",
+        "archive_path": "repo_archives/kubernetes-client.zip",
+        "repository": "https://github.com/fabric8io/kubernetes-client",
+        "name": "FuseSource CI",
+        "email": "fuse-infra@redhat.com"
+    },
+    {
+        "github_profile": "https://github.com/Orbiter",
+        "archive_path": "repo_archives/loklak_server.zip",
+        "repository": "https://github.com/loklak/loklak_server",
+        "name": "Michael Christen",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/NickNYU",
+        "archive_path": "repo_archives/x-pipe.zip",
+        "repository": "https://github.com/ctripcorp/x-pipe",
+        "name": "Chen",
+        "email": "cz739@nyu.edu"
+    },
+    {
+        "github_profile": "https://github.com/aonishuk",
+        "archive_path": "repo_archives/ambari.zip",
+        "repository": "https://github.com/apache/ambari",
+        "name": null,
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/jvalkeal",
+        "archive_path": "repo_archives/spring-cloud-dataflow.zip",
+        "repository": "https://github.com/spring-cloud/spring-cloud-dataflow",
+        "name": "Janne Valkealahti",
+        "email": "janne.valkealahti@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/stuartwdouglas",
+        "archive_path": "repo_archives/quarkus.zip",
+        "repository": "https://github.com/quarkusio/quarkus",
+        "name": "Stuart Douglas",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/StephanEwen",
+        "archive_path": "repo_archives/flink.zip",
+        "repository": "https://github.com/apache/flink",
+        "name": "Stephan Ewen",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/codefollower",
+        "archive_path": "repo_archives/Lealone.zip",
+        "repository": "https://github.com/lealone/Lealone",
+        "name": "codefollower",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/calvinjia",
+        "archive_path": "repo_archives/alluxio.zip",
+        "repository": "https://github.com/Alluxio/alluxio",
+        "name": "Calvin Jia",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/ppatierno",
+        "archive_path": "repo_archives/strimzi-kafka-operator.zip",
+        "repository": "https://github.com/strimzi/strimzi-kafka-operator",
+        "name": "Paolo Patierno",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/hamiltont",
+        "archive_path": "repo_archives/FrameworkBenchmarks.zip",
+        "repository": "https://github.com/TechEmpower/FrameworkBenchmarks",
+        "name": "Hamilton Turner",
+        "email": "hamiltont@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/bill23-kim",
+        "archive_path": "repo_archives/scouter.zip",
+        "repository": "https://github.com/scouter-project/scouter",
+        "name": "bill23",
+        "email": "eunsu.bill23@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/ijuma",
+        "archive_path": "repo_archives/kafka.zip",
+        "repository": "https://github.com/apache/kafka",
+        "name": "Ismael Juma",
+        "email": "mail@ismaeljuma.com"
+    },
+    {
+        "github_profile": "https://github.com/mdogan",
+        "archive_path": "repo_archives/hazelcast.zip",
+        "repository": "https://github.com/hazelcast/hazelcast",
+        "name": "Mehmet Dogan",
+        "email": "mehmet@dogan.io"
+    },
+    {
+        "github_profile": "https://github.com/jordansissel",
+        "archive_path": "repo_archives/logstash.zip",
+        "repository": "https://github.com/elastic/logstash",
+        "name": "Jordan Sissel",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/rdhabalia",
+        "archive_path": "repo_archives/pulsar.zip",
+        "repository": "https://github.com/apache/pulsar",
+        "name": "Rajan Dhabalia",
+        "email": "rdhabalia@apache.org"
+    },
+    {
+        "github_profile": "https://github.com/macrozheng",
+        "archive_path": "repo_archives/mall.zip",
+        "repository": "https://github.com/macrozheng/mall",
+        "name": "macro",
+        "email": "macrozheng@126.com"
+    },
+    {
+        "github_profile": "https://github.com/vinoduec",
+        "archive_path": "repo_archives/hadoop.zip",
+        "repository": "https://github.com/apache/hadoop",
+        "name": null,
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/tfmorris",
+        "archive_path": "repo_archives/OpenRefine.zip",
+        "repository": "https://github.com/OpenRefine/OpenRefine",
+        "name": "Tom Morris",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/lhotari",
+        "archive_path": "repo_archives/pulsar.zip",
+        "repository": "https://github.com/apache/pulsar",
+        "name": "Lari Hotari",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/jasontedor",
+        "archive_path": "repo_archives/OpenSearch.zip",
+        "repository": "https://github.com/opensearch-project/OpenSearch",
+        "name": "Jason Tedor",
+        "email": "jason@tedor.me"
+    },
+    {
+        "github_profile": "https://github.com/frsyuki",
+        "archive_path": "repo_archives/digdag.zip",
+        "repository": "https://github.com/treasure-data/digdag",
+        "name": "Sadayuki Furuhashi",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/xiangfu0",
+        "archive_path": "repo_archives/pinot.zip",
+        "repository": "https://github.com/apache/pinot",
+        "name": "Xiang Fu",
+        "email": "xiangfu.1024@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/killme2008",
+        "archive_path": "repo_archives/aviatorscript.zip",
+        "repository": "https://github.com/killme2008/aviatorscript",
+        "name": "dennis zhuang",
+        "email": "killme2008@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/mrniko",
+        "archive_path": "repo_archives/redisson.zip",
+        "repository": "https://github.com/redisson/redisson",
+        "name": "Nikita Koksharov",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/ilayaperumalg",
+        "archive_path": "repo_archives/spring-cloud-dataflow.zip",
+        "repository": "https://github.com/spring-cloud/spring-cloud-dataflow",
+        "name": "Ilayaperumal Gopinathan",
+        "email": "ilayaperumalg@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/HenryCaiHaiying",
+        "archive_path": "repo_archives/secor.zip",
+        "repository": "https://github.com/pinterest/secor",
+        "name": "Henry Haiying Cai",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/Miggets7",
+        "archive_path": "repo_archives/openremote.zip",
+        "repository": "https://github.com/openremote/openremote",
+        "name": "Michael Rademaker",
+        "email": "michael@appbriek.com"
+    },
+    {
+        "github_profile": "https://github.com/adriancole",
+        "archive_path": "repo_archives/zipkin.zip",
+        "repository": "https://github.com/openzipkin/zipkin",
+        "name": null,
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/mp911de",
+        "archive_path": "repo_archives/spring-data-redis.zip",
+        "repository": "https://github.com/spring-projects/spring-data-redis",
+        "name": "Mark Paluch",
+        "email": "mpaluch@paluch.biz"
+    },
+    {
+        "github_profile": "https://github.com/tillrohrmann",
+        "archive_path": "repo_archives/flink.zip",
+        "repository": "https://github.com/apache/flink",
+        "name": "Till Rohrmann",
+        "email": "trohrmann@apache.org"
+    },
+    {
+        "github_profile": "https://github.com/kjurka",
+        "archive_path": "repo_archives/pgjdbc.zip",
+        "repository": "https://github.com/pgjdbc/pgjdbc",
+        "name": "Kris Jurka",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/vvagaytsev",
+        "archive_path": "repo_archives/garden.zip",
+        "repository": "https://github.com/garden-io/garden",
+        "name": "Vladimir Vagaytsev",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/kener",
+        "archive_path": "repo_archives/echarts.zip",
+        "repository": "https://github.com/apache/echarts",
+        "name": "linfeng",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/syuilo",
+        "archive_path": "repo_archives/misskey.zip",
+        "repository": "https://github.com/misskey-dev/misskey",
+        "name": "syuilo",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/Pitu",
+        "archive_path": "repo_archives/chibisafe.zip",
+        "repository": "https://github.com/chibisafe/chibisafe",
+        "name": "Kana",
+        "email": "heyitspitu@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/mjackson",
+        "archive_path": "repo_archives/remix.zip",
+        "repository": "https://github.com/remix-run/remix",
+        "name": "Michael Jackson",
+        "email": "michael@jackson.us"
+    },
+    {
+        "github_profile": "https://github.com/Martinsos",
+        "archive_path": "repo_archives/wasp.zip",
+        "repository": "https://github.com/wasp-lang/wasp",
+        "name": "Martin \u0160o\u0161i\u0107",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/fzaninotto",
+        "archive_path": "repo_archives/react-admin.zip",
+        "repository": "https://github.com/marmelab/react-admin",
+        "name": "Francois Zaninotto",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/louis-jan",
+        "archive_path": "repo_archives/jan.zip",
+        "repository": "https://github.com/janhq/jan",
+        "name": "Louis",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/bpatrik",
+        "archive_path": "repo_archives/pigallery2.zip",
+        "repository": "https://github.com/bpatrik/pigallery2",
+        "name": "Patrik J. Braun",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/eysi09",
+        "archive_path": "repo_archives/garden.zip",
+        "repository": "https://github.com/garden-io/garden",
+        "name": "Ey\u00fe\u00f3r Magn\u00fasson",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/dankochetov",
+        "archive_path": "repo_archives/drizzle-orm.zip",
+        "repository": "https://github.com/drizzle-team/drizzle-orm",
+        "name": "Dan Kochetov",
+        "email": "danil.kochetov@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/ElTimuro",
+        "archive_path": "repo_archives/documenso.zip",
+        "repository": "https://github.com/documenso/documenso",
+        "name": "Timur Ercan",
+        "email": "timur.ercan31@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/iCrawl",
+        "archive_path": "repo_archives/discord.js.zip",
+        "repository": "https://github.com/discordjs/discord.js",
+        "name": "Noel",
+        "email": "buechler.noel@outlook.com"
+    },
+    {
+        "github_profile": "https://github.com/gaearon",
+        "archive_path": "repo_archives/react.dev.zip",
+        "repository": "https://github.com/reactjs/react.dev",
+        "name": "dan",
+        "email": "dan.abramov@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/danieljharvey",
+        "archive_path": "repo_archives/graphql-engine.zip",
+        "repository": "https://github.com/hasura/graphql-engine",
+        "name": "Daniel Harvey",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/AprilNEA",
+        "archive_path": "repo_archives/ChatGPT-Admin-Web.zip",
+        "repository": "https://github.com/AprilNEA/ChatGPT-Admin-Web",
+        "name": "April",
+        "email": "github@sku.moe"
+    },
+    {
+        "github_profile": "https://github.com/apalchys",
+        "archive_path": "repo_archives/rsschool-app.zip",
+        "repository": "https://github.com/rolling-scopes/rsschool-app",
+        "name": "Andrei",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/zamitto",
+        "archive_path": "repo_archives/hydra.zip",
+        "repository": "https://github.com/hydralauncher/hydra",
+        "name": "Zamitto",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/mjackson",
+        "archive_path": "repo_archives/react-router.zip",
+        "repository": "https://github.com/remix-run/react-router",
+        "name": "Michael Jackson",
+        "email": "michael@jackson.us"
+    },
+    {
+        "github_profile": "https://github.com/SLOBS-Release",
+        "archive_path": "repo_archives/desktop.zip",
+        "repository": "https://github.com/stream-labs/desktop",
+        "name": null,
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/simlarsen",
+        "archive_path": "repo_archives/oneuptime.zip",
+        "repository": "https://github.com/OneUptime/oneuptime",
+        "name": "Simon Larsen",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/steida",
+        "archive_path": "repo_archives/este.zip",
+        "repository": "https://github.com/este/este",
+        "name": "Daniel Steigerwald",
+        "email": "daniel@steigerwald.cz"
+    },
+    {
+        "github_profile": "https://github.com/emmatown",
+        "archive_path": "repo_archives/keystone.zip",
+        "repository": "https://github.com/keystonejs/keystone",
+        "name": "Emma Hamilton",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/jmsm412",
+        "archive_path": "repo_archives/rair-dapp.zip",
+        "repository": "https://github.com/rairprotocol/rair-dapp",
+        "name": "Juan Miguel Sanchez Mola",
+        "email": "jmsm412@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/jacksonh",
+        "archive_path": "repo_archives/omnivore.zip",
+        "repository": "https://github.com/omnivore-app/omnivore",
+        "name": "Jackson Harper",
+        "email": "jacksonh@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/remojansen",
+        "archive_path": "repo_archives/InversifyJS.zip",
+        "repository": "https://github.com/inversify/InversifyJS",
+        "name": "Remo H. Jansen",
+        "email": "remo.jansen@wolksoftware.com"
+    },
+    {
+        "github_profile": "https://github.com/petebacondarwin",
+        "archive_path": "repo_archives/angular.zip",
+        "repository": "https://github.com/angular/angular",
+        "name": "Pete Bacon Darwin",
+        "email": "pete@bacondarwin.com"
+    },
+    {
+        "github_profile": "https://github.com/sranka",
+        "archive_path": "repo_archives/chronograf.zip",
+        "repository": "https://github.com/influxdata/chronograf",
+        "name": "Pavel Z\u00e1vora",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/bkimminich",
+        "archive_path": "repo_archives/juice-shop.zip",
+        "repository": "https://github.com/juice-shop/juice-shop",
+        "name": "Bj\u00f6rn Kimminich",
+        "email": "github.com@kimminich.de"
+    },
+    {
+        "github_profile": "https://github.com/michaelgrosner",
+        "archive_path": "repo_archives/tribeca.zip",
+        "repository": "https://github.com/michaelgrosner/tribeca",
+        "name": "Michael Grosner",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/Mythie",
+        "archive_path": "repo_archives/documenso.zip",
+        "repository": "https://github.com/documenso/documenso",
+        "name": "Lucas Smith",
+        "email": "me@lucasjamessmith.me"
+    },
+    {
+        "github_profile": "https://github.com/jobenjada",
+        "archive_path": "repo_archives/formbricks.zip",
+        "repository": "https://github.com/formbricks/formbricks",
+        "name": "Johannes",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/mydea",
+        "archive_path": "repo_archives/sentry-javascript.zip",
+        "repository": "https://github.com/getsentry/sentry-javascript",
+        "name": "Francesco Novy",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/djhi",
+        "archive_path": "repo_archives/react-admin.zip",
+        "repository": "https://github.com/marmelab/react-admin",
+        "name": "Gildas Garcia",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/christkv",
+        "archive_path": "repo_archives/node-mongodb-native.zip",
+        "repository": "https://github.com/mongodb/node-mongodb-native",
+        "name": "Christian Amor Kvalheim",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/layershifter",
+        "archive_path": "repo_archives/fluentui.zip",
+        "repository": "https://github.com/microsoft/fluentui",
+        "name": "Oleksandr Fediashov",
+        "email": "a@fedyashov.com"
+    },
+    {
+        "github_profile": "https://github.com/pedronauck",
+        "archive_path": "repo_archives/docz.zip",
+        "repository": "https://github.com/doczjs/docz",
+        "name": "Pedro Nauck",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/kamranahmedse",
+        "archive_path": "repo_archives/developer-roadmap.zip",
+        "repository": "https://github.com/kamranahmedse/developer-roadmap",
+        "name": "Kamran Ahmed",
+        "email": "kamranahmed.se@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/pyu10055",
+        "archive_path": "repo_archives/tfjs.zip",
+        "repository": "https://github.com/tensorflow/tfjs",
+        "name": "Ping Yu",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/Tzahi12345",
+        "archive_path": "repo_archives/YoutubeDL-Material.zip",
+        "repository": "https://github.com/Tzahi12345/YoutubeDL-Material",
+        "name": "Tzahi12345",
+        "email": "tzahi2g@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/refine-bot",
+        "archive_path": "repo_archives/refine.zip",
+        "repository": "https://github.com/refinedev/refine",
+        "name": "Refine Community Bot",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/dhui",
+        "archive_path": "repo_archives/migrate.zip",
+        "repository": "https://github.com/golang-migrate/migrate",
+        "name": "Dale Hui",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/adamreese",
+        "archive_path": "repo_archives/helm.zip",
+        "repository": "https://github.com/helm/helm",
+        "name": "Adam Reese",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/blacktop",
+        "archive_path": "repo_archives/malice.zip",
+        "repository": "https://github.com/maliceio/malice",
+        "name": null,
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/mao888",
+        "archive_path": "repo_archives/golang-guide.zip",
+        "repository": "https://github.com/mao888/golang-guide",
+        "name": "ChaoHu",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/rigelrozanski",
+        "archive_path": "repo_archives/cosmos-sdk.zip",
+        "repository": "https://github.com/cosmos/cosmos-sdk",
+        "name": null,
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/dnephin",
+        "archive_path": "repo_archives/consul.zip",
+        "repository": "https://github.com/hashicorp/consul",
+        "name": "Daniel Nephin",
+        "email": "dnephin@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/emilevauge",
+        "archive_path": "repo_archives/traefik.zip",
+        "repository": "https://github.com/traefik/traefik",
+        "name": "Emile Vauge",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/rootfs",
+        "archive_path": "repo_archives/kepler.zip",
+        "repository": "https://github.com/sustainable-computing-io/kepler",
+        "name": "Huamin Chen",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/AjayTripathy",
+        "archive_path": "repo_archives/opencost.zip",
+        "repository": "https://github.com/opencost/opencost",
+        "name": "Ajay Tripathy",
+        "email": "4tripathy@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/alexellis",
+        "archive_path": "repo_archives/faas.zip",
+        "repository": "https://github.com/openfaas/faas",
+        "name": "Alex Ellis",
+        "email": "alexellis2@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/fabxc",
+        "archive_path": "repo_archives/prometheus.zip",
+        "repository": "https://github.com/prometheus/prometheus",
+        "name": "Fabian Reinartz",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/tomwilkie",
+        "archive_path": "repo_archives/mimir.zip",
+        "repository": "https://github.com/grafana/mimir",
+        "name": "Tom Wilkie",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/k8s-publishing-bot",
+        "archive_path": "repo_archives/client-go.zip",
+        "repository": "https://github.com/kubernetes/client-go",
+        "name": "Kubernetes staging repo publishing bot",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/AkihiroSuda",
+        "archive_path": "repo_archives/nerdctl.zip",
+        "repository": "https://github.com/containerd/nerdctl",
+        "name": "Akihiro Suda",
+        "email": "suda.kyoto@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/eapache",
+        "archive_path": "repo_archives/sarama.zip",
+        "repository": "https://github.com/IBM/sarama",
+        "name": "Evan Huus",
+        "email": "eapache@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/alex-zaitsev",
+        "archive_path": "repo_archives/clickhouse-operator.zip",
+        "repository": "https://github.com/Altinity/clickhouse-operator",
+        "name": null,
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/peterebden",
+        "archive_path": "repo_archives/please.zip",
+        "repository": "https://github.com/thought-machine/please",
+        "name": "Peter Ebden",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/k8s-ci-robot",
+        "archive_path": "repo_archives/kops.zip",
+        "repository": "https://github.com/kubernetes/kops",
+        "name": "Kubernetes Prow Robot",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/hsluoyz",
+        "archive_path": "repo_archives/casibase.zip",
+        "repository": "https://github.com/casibase/casibase",
+        "name": "Yang Luo",
+        "email": "hsluoyz@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/marten-seemann",
+        "archive_path": "repo_archives/quic-go.zip",
+        "repository": "https://github.com/quic-go/quic-go",
+        "name": "Marten Seemann",
+        "email": "martenseemann@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/nvanbenschoten",
+        "archive_path": "repo_archives/cockroach.zip",
+        "repository": "https://github.com/cockroachdb/cockroach",
+        "name": "Nathan VanBenschoten",
+        "email": "nvanbenschoten@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/petethepig",
+        "archive_path": "repo_archives/pyroscope.zip",
+        "repository": "https://github.com/grafana/pyroscope",
+        "name": "Dmitry Filimonov",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/unknwon",
+        "archive_path": "repo_archives/gitea.zip",
+        "repository": "https://github.com/go-gitea/gitea",
+        "name": "Joe Chen",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/jnummelin",
+        "archive_path": "repo_archives/k0s.zip",
+        "repository": "https://github.com/k0sproject/k0s",
+        "name": "Jussi Nummelin",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/davyxu",
+        "archive_path": "repo_archives/cellnet.zip",
+        "repository": "https://github.com/davyxu/cellnet",
+        "name": "Davy xu",
+        "email": "sunicdavy@qq.com"
+    },
+    {
+        "github_profile": "https://github.com/hiddeco",
+        "archive_path": "repo_archives/flux2.zip",
+        "repository": "https://github.com/fluxcd/flux2",
+        "name": "Hidde Beydals",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/asim",
+        "archive_path": "repo_archives/go-micro.zip",
+        "repository": "https://github.com/micro/go-micro",
+        "name": "Asim Aslam",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/knz",
+        "archive_path": "repo_archives/cockroach.zip",
+        "repository": "https://github.com/cockroachdb/cockroach",
+        "name": "Raphael 'kena' Poss",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/Jeffail",
+        "archive_path": "repo_archives/connect.zip",
+        "repository": "https://github.com/redpanda-data/connect",
+        "name": "Ashley Jeffs",
+        "email": "ash@jeffail.uk"
+    },
+    {
+        "github_profile": "https://github.com/stevvooe",
+        "archive_path": "repo_archives/distribution.zip",
+        "repository": "https://github.com/distribution/distribution",
+        "name": "Stephen Day",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/wonderflow",
+        "archive_path": "repo_archives/logkit.zip",
+        "repository": "https://github.com/qiniu/logkit",
+        "name": "Jianbo Sun",
+        "email": "wonderflow.sun@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/mertyildiran",
+        "archive_path": "repo_archives/kubeshark.zip",
+        "repository": "https://github.com/kubeshark/kubeshark",
+        "name": "M. Mert Yildiran",
+        "email": "me@mertyildiran.com"
+    },
+    {
+        "github_profile": "https://github.com/reasonerjt",
+        "archive_path": "repo_archives/harbor.zip",
+        "repository": "https://github.com/goharbor/harbor",
+        "name": "Daniel Jiang",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/RichardScothern",
+        "archive_path": "repo_archives/distribution.zip",
+        "repository": "https://github.com/distribution/distribution",
+        "name": "Richard Scothern",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/knative-automation",
+        "archive_path": "repo_archives/eventing.zip",
+        "repository": "https://github.com/knative/eventing",
+        "name": "Knative Automation",
+        "email": "automation@knative.team"
+    },
+    {
+        "github_profile": "https://github.com/ncdc",
+        "archive_path": "repo_archives/kcp.zip",
+        "repository": "https://github.com/kcp-dev/kcp",
+        "name": "Andy Goldstein",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/calmh",
+        "archive_path": "repo_archives/syncthing.zip",
+        "repository": "https://github.com/syncthing/syncthing",
+        "name": "Jakob Borg",
+        "email": "jakob@kastelo.net"
+    },
+    {
+        "github_profile": "https://github.com/jhump",
+        "archive_path": "repo_archives/protoreflect.zip",
+        "repository": "https://github.com/jhump/protoreflect",
+        "name": "Joshua Humphries",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/monopole",
+        "archive_path": "repo_archives/kustomize.zip",
+        "repository": "https://github.com/kubernetes-sigs/kustomize",
+        "name": "Jeff Regan",
+        "email": "jeff.regan@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/dgageot",
+        "archive_path": "repo_archives/skaffold.zip",
+        "repository": "https://github.com/GoogleContainerTools/skaffold",
+        "name": "David Gageot",
+        "email": "david@gageot.net"
+    },
+    {
+        "github_profile": "https://github.com/zachmu",
+        "archive_path": "repo_archives/doltgresql.zip",
+        "repository": "https://github.com/dolthub/doltgresql",
+        "name": "Zach Musgrave",
+        "email": "zach@dolthub.com"
+    },
+    {
+        "github_profile": "https://github.com/sanikolaev",
+        "archive_path": "repo_archives/manticoresearch.zip",
+        "repository": "https://github.com/manticoresoftware/manticoresearch",
+        "name": "Sergey Nikolaev",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/bangerth",
+        "archive_path": "repo_archives/dealii.zip",
+        "repository": "https://github.com/dealii/dealii",
+        "name": "Wolfgang Bangerth",
+        "email": "bangerth@colostate.edu"
+    },
+    {
+        "github_profile": "https://github.com/jedelbo",
+        "archive_path": "repo_archives/realm-core.zip",
+        "repository": "https://github.com/realm/realm-core",
+        "name": "J\u00f8rgen Edelbo",
+        "email": "jorgen.edelbo@mongodb.com"
+    },
+    {
+        "github_profile": "https://github.com/cbodley",
+        "archive_path": "repo_archives/ceph.zip",
+        "repository": "https://github.com/ceph/ceph",
+        "name": "Casey Bodley",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/ctiller",
+        "archive_path": "repo_archives/grpc.zip",
+        "repository": "https://github.com/grpc/grpc",
+        "name": "Craig Tiller",
+        "email": "craig.tiller@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/rouault",
+        "archive_path": "repo_archives/gdal.zip",
+        "repository": "https://github.com/OSGeo/gdal",
+        "name": "Even Rouault",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/jtv",
+        "archive_path": "repo_archives/libpqxx.zip",
+        "repository": "https://github.com/jtv/libpqxx",
+        "name": "Jeroen Vermeulen",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/haberman",
+        "archive_path": "repo_archives/bloaty.zip",
+        "repository": "https://github.com/google/bloaty",
+        "name": "Joshua Haberman",
+        "email": "jhaberman@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/daniel-j-h",
+        "archive_path": "repo_archives/osrm-backend.zip",
+        "repository": "https://github.com/Project-OSRM/osrm-backend",
+        "name": "Daniel J. H.",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/qaisjp",
+        "archive_path": "repo_archives/mtasa-blue.zip",
+        "repository": "https://github.com/multitheftauto/mtasa-blue",
+        "name": "Qais Patankar",
+        "email": "qaisjp@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/donbright",
+        "archive_path": "repo_archives/openscad.zip",
+        "repository": "https://github.com/openscad/openscad",
+        "name": "don bright",
+        "email": "dbsrc@fastmail.com"
+    },
+    {
+        "github_profile": "https://github.com/tomatolog",
+        "archive_path": "repo_archives/manticoresearch.zip",
+        "repository": "https://github.com/manticoresoftware/manticoresearch",
+        "name": "Stas",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/sgerbino",
+        "archive_path": "repo_archives/steem.zip",
+        "repository": "https://github.com/steemit/steem",
+        "name": "Steve Gerbino",
+        "email": "steve@gerbino.co"
+    },
+    {
+        "github_profile": "https://github.com/kishorenc",
+        "archive_path": "repo_archives/typesense.zip",
+        "repository": "https://github.com/typesense/typesense",
+        "name": "Kishore Nallan",
+        "email": "kishorenc@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/michaelgrosner",
+        "archive_path": "repo_archives/Krypto-trading-bot.zip",
+        "repository": "https://github.com/ctubio/Krypto-trading-bot",
+        "name": "Michael Grosner",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/lixinqi",
+        "archive_path": "repo_archives/oneflow.zip",
+        "repository": "https://github.com/Oneflow-Inc/oneflow",
+        "name": "Li Xinqi",
+        "email": "lixinqi2010@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/matthill",
+        "archive_path": "repo_archives/openalpr.zip",
+        "repository": "https://github.com/openalpr/openalpr",
+        "name": "Matthew Hill",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/pmq20",
+        "archive_path": "repo_archives/node-packer.zip",
+        "repository": "https://github.com/pmq20/node-packer",
+        "name": "Minqi Pan",
+        "email": "pmq2001@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/bufferoverflow",
+        "archive_path": "repo_archives/thrift.zip",
+        "repository": "https://github.com/apache/thrift",
+        "name": "Roger Meier",
+        "email": "r.meier@siemens.com"
+    },
+    {
+        "github_profile": "https://github.com/lodoyun",
+        "archive_path": "repo_archives/licode.zip",
+        "repository": "https://github.com/lynckia/licode",
+        "name": "Pedro Rodriguez",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/thorvald",
+        "archive_path": "repo_archives/mumble.zip",
+        "repository": "https://github.com/mumble-voip/mumble",
+        "name": "Thorvald Natvig",
+        "email": "github@natvig.com"
+    },
+    {
+        "github_profile": "https://github.com/kevinkreiser",
+        "archive_path": "repo_archives/valhalla.zip",
+        "repository": "https://github.com/valhalla/valhalla",
+        "name": "Kevin Kreiser",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/CamJN",
+        "archive_path": "repo_archives/passenger.zip",
+        "repository": "https://github.com/phusion/passenger",
+        "name": "Camden Narzt",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/rdementi",
+        "archive_path": "repo_archives/pcm.zip",
+        "repository": "https://github.com/intel/pcm",
+        "name": "Roman Dementiev",
+        "email": "roman.dementiev@intel.com"
+    },
+    {
+        "github_profile": "https://github.com/a7ul",
+        "archive_path": "repo_archives/nodegui.zip",
+        "repository": "https://github.com/nodegui/nodegui",
+        "name": "Atul R",
+        "email": "atulanand94@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/robot-piglet",
+        "archive_path": "repo_archives/ydb.zip",
+        "repository": "https://github.com/ydb-platform/ydb",
+        "name": "Robot Piglet",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/pavel-odintsov",
+        "archive_path": "repo_archives/fastnetmon.zip",
+        "repository": "https://github.com/pavel-odintsov/fastnetmon",
+        "name": "Pavel Odintsov",
+        "email": "pavel.odintsov@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/kkoopa",
+        "archive_path": "repo_archives/nan.zip",
+        "repository": "https://github.com/nodejs/nan",
+        "name": "Benjamin Byholm",
+        "email": "bbyholm@abo.fi"
+    },
+    {
+        "github_profile": "https://github.com/dongkeren",
+        "archive_path": "repo_archives/kungfu.zip",
+        "repository": "https://github.com/kungfu-origin/kungfu",
+        "name": "Keren Dong",
+        "email": "keren.dong@kungfu.link"
+    },
+    {
+        "github_profile": "https://github.com/nadavrot",
+        "archive_path": "repo_archives/glow.zip",
+        "repository": "https://github.com/pytorch/glow",
+        "name": "Nadav Rotem",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/sewenew",
+        "archive_path": "repo_archives/redis-plus-plus.zip",
+        "repository": "https://github.com/sewenew/redis-plus-plus",
+        "name": null,
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/neilmoore",
+        "archive_path": "repo_archives/crawl.zip",
+        "repository": "https://github.com/crawl/crawl",
+        "name": "Neil Moore",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/aoym",
+        "archive_path": "repo_archives/treefrog-framework.zip",
+        "repository": "https://github.com/treefrogframework/treefrog-framework",
+        "name": "AOYAMA Kazuharu",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/jef-n",
+        "archive_path": "repo_archives/QGIS.zip",
+        "repository": "https://github.com/qgis/QGIS",
+        "name": "J\u00fcrgen Fischer",
+        "email": "jef@norbit.de"
+    },
+    {
+        "github_profile": "https://github.com/JaimeMartin",
+        "archive_path": "repo_archives/Fast-DDS.zip",
+        "repository": "https://github.com/eProsima/Fast-DDS",
+        "name": "Jaime Martin Losa",
+        "email": "JaimeMartin@eProsima.com"
+    },
+    {
+        "github_profile": "https://github.com/DennisOSRM",
+        "archive_path": "repo_archives/osrm-backend.zip",
+        "repository": "https://github.com/Project-OSRM/osrm-backend",
+        "name": "Dennis Luxen",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/tensorflower-gardener",
+        "archive_path": "repo_archives/serving.zip",
+        "repository": "https://github.com/tensorflow/serving",
+        "name": "TensorFlower Gardener",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/nerzhul",
+        "archive_path": "repo_archives/minetest.zip",
+        "repository": "https://github.com/minetest/minetest",
+        "name": "Lo\u00efc Blot",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/searchivarius",
+        "archive_path": "repo_archives/nmslib.zip",
+        "repository": "https://github.com/nmslib/nmslib",
+        "name": "Leonid Boytsov",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/schwehr",
+        "archive_path": "repo_archives/gdal.zip",
+        "repository": "https://github.com/OSGeo/gdal",
+        "name": "Kurt Schwehr",
+        "email": "schwehr at gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/mkrautz",
+        "archive_path": "repo_archives/mumble.zip",
+        "repository": "https://github.com/mumble-voip/mumble",
+        "name": "Mikkel Krautz",
+        "email": "mikkel@krautz.dk"
+    },
+    {
+        "github_profile": "https://github.com/Leonya",
+        "archive_path": "repo_archives/kotlin-wrappers.zip",
+        "repository": "https://github.com/JetBrains/kotlin-wrappers",
+        "name": "Leonid Khachaturov",
+        "email": "leonidkhachaturov@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/MickeyMoz",
+        "archive_path": "repo_archives/fenix.zip",
+        "repository": "https://github.com/mozilla-mobile/fenix",
+        "name": "Mickey Moz",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/sandwwraith",
+        "archive_path": "repo_archives/kotlinx.serialization.zip",
+        "repository": "https://github.com/Kotlin/kotlinx.serialization",
+        "name": "Leonid Startsev",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/freyacodes",
+        "archive_path": "repo_archives/Lavalink.zip",
+        "repository": "https://github.com/lavalink-devs/Lavalink",
+        "name": "Freya Arbjerg",
+        "email": "freya@arbjerg.dev"
+    },
+    {
+        "github_profile": "https://github.com/J-Jamet",
+        "archive_path": "repo_archives/KeePassDX.zip",
+        "repository": "https://github.com/Kunzisoft/KeePassDX",
+        "name": "J\u00e9r\u00e9my JAMET",
+        "email": "jeremy.jamet@kunzisoft.com"
+    },
+    {
+        "github_profile": "https://github.com/SomeTroglodyte",
+        "archive_path": "repo_archives/Unciv.zip",
+        "repository": "https://github.com/yairm210/Unciv",
+        "name": null,
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/mozilla-l10n-automation-bot",
+        "archive_path": "repo_archives/fenix.zip",
+        "repository": "https://github.com/mozilla-mobile/fenix",
+        "name": null,
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/1zun4",
+        "archive_path": "repo_archives/LiquidBounce.zip",
+        "repository": "https://github.com/CCBlueX/LiquidBounce",
+        "name": "1zuna",
+        "email": "marco@ccbluex.net"
+    },
+    {
+        "github_profile": "https://github.com/yairm210",
+        "archive_path": "repo_archives/Unciv.zip",
+        "repository": "https://github.com/yairm210/Unciv",
+        "name": "Yair Morgenstern",
+        "email": "yairm210@hotmail.com"
+    },
+    {
+        "github_profile": "https://github.com/joreilly",
+        "archive_path": "repo_archives/PeopleInSpace.zip",
+        "repository": "https://github.com/joreilly/PeopleInSpace",
+        "name": "John O'Reilly",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/turansky",
+        "archive_path": "repo_archives/kotlin-wrappers.zip",
+        "repository": "https://github.com/JetBrains/kotlin-wrappers",
+        "name": "Victor Turansky",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/GeoffreyMetais",
+        "archive_path": "repo_archives/vlc-android.zip",
+        "repository": "https://github.com/videolan/vlc-android",
+        "name": "Geoffrey M\u00e9tais",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/ekager",
+        "archive_path": "repo_archives/fenix.zip",
+        "repository": "https://github.com/mozilla-mobile/fenix",
+        "name": null,
+        "email": "emilykager@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/AChep",
+        "archive_path": "repo_archives/keyguard-app.zip",
+        "repository": "https://github.com/AChep/keyguard-app",
+        "name": "Artem Chepurnyi",
+        "email": "mail@artemchep.com"
+    },
+    {
+        "github_profile": "https://github.com/JakeWharton",
+        "archive_path": "repo_archives/wire.zip",
+        "repository": "https://github.com/square/wire",
+        "name": "Jake Wharton",
+        "email": "j@ke.fyi"
+    },
+    {
+        "github_profile": "https://github.com/gotev",
+        "archive_path": "repo_archives/android-upload-service.zip",
+        "repository": "https://github.com/gotev/android-upload-service",
+        "name": "Aleksandar 'Alex' Gotev",
+        "email": "alex@gotev.net"
+    },
+    {
+        "github_profile": "https://github.com/tguillem",
+        "archive_path": "repo_archives/vlc-android.zip",
+        "repository": "https://github.com/videolan/vlc-android",
+        "name": "Thomas Guillem",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/fviernau",
+        "archive_path": "repo_archives/ort.zip",
+        "repository": "https://github.com/oss-review-toolkit/ort",
+        "name": "Frank Viernau",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/whitescent",
+        "archive_path": "repo_archives/jetpack-compose-book.zip",
+        "repository": "https://github.com/compose-museum/jetpack-compose-book",
+        "name": "WhiteScent",
+        "email": "rouxicoc@outlook.com"
+    },
+    {
+        "github_profile": "https://github.com/JakeWharton",
+        "archive_path": "repo_archives/redwood.zip",
+        "repository": "https://github.com/cashapp/redwood",
+        "name": "Jake Wharton",
+        "email": "j@ke.fyi"
+    },
+    {
+        "github_profile": "https://github.com/irwinsun",
+        "archive_path": "repo_archives/bk-ci.zip",
+        "repository": "https://github.com/TencentBlueKing/bk-ci",
+        "name": "irwinsun",
+        "email": "irwinsun@tencent.com"
+    },
+    {
+        "github_profile": "https://github.com/mingshewhe",
+        "archive_path": "repo_archives/bk-ci.zip",
+        "repository": "https://github.com/TencentBlueKing/bk-ci",
+        "name": "mingshewhe",
+        "email": "mingshewhe@tencent.com"
+    },
+    {
+        "github_profile": "https://github.com/hsz",
+        "archive_path": "repo_archives/idea-gitignore.zip",
+        "repository": "https://github.com/JetBrains/idea-gitignore",
+        "name": "Jakub Chrzanowski",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/mnonnenmacher",
+        "archive_path": "repo_archives/ort.zip",
+        "repository": "https://github.com/oss-review-toolkit/ort",
+        "name": "Martin Nonnenmacher",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/jbkempf",
+        "archive_path": "repo_archives/vlc-android.zip",
+        "repository": "https://github.com/videolan/vlc-android",
+        "name": "Jean-Baptiste Kempf",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/matzuk",
+        "archive_path": "repo_archives/Kaspresso.zip",
+        "repository": "https://github.com/KasperskyLab/Kaspresso",
+        "name": "Evgenii Matsiuk",
+        "email": "eugene.matsyuk@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/Shabinder",
+        "archive_path": "repo_archives/SpotiFlyer.zip",
+        "repository": "https://github.com/Shabinder/SpotiFlyer",
+        "name": "Shabinder Singh",
+        "email": "dev.shabinder@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/actions-user",
+        "archive_path": "repo_archives/SubCrawler.zip",
+        "repository": "https://github.com/Leon406/SubCrawler",
+        "name": null,
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/oldergod",
+        "archive_path": "repo_archives/wire.zip",
+        "repository": "https://github.com/square/wire",
+        "name": "Beno\u00eet Quenaudon",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/liujingxing",
+        "archive_path": "repo_archives/rxhttp.zip",
+        "repository": "https://github.com/liujingxing/rxhttp",
+        "name": "liujingxing",
+        "email": "18268800083ljx@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/tibbi",
+        "archive_path": "repo_archives/Simple-Gallery.zip",
+        "repository": "https://github.com/SimpleMobileTools/Simple-Gallery",
+        "name": "Tibor Kaputa",
+        "email": "tibor@kaputa.sk"
+    },
+    {
+        "github_profile": "https://github.com/dzikoysk",
+        "archive_path": "repo_archives/reposilite.zip",
+        "repository": "https://github.com/dzikoysk/reposilite",
+        "name": null,
+        "email": "dzikoysk@dzikoysk.net"
+    },
+    {
+        "github_profile": "https://github.com/marandaneto",
+        "archive_path": "repo_archives/sentry-java.zip",
+        "repository": "https://github.com/getsentry/sentry-java",
+        "name": "Manoel Aranda Neto",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/ajalt",
+        "archive_path": "repo_archives/clikt.zip",
+        "repository": "https://github.com/ajalt/clikt",
+        "name": "AJ Alt",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/sschuberth",
+        "archive_path": "repo_archives/ort.zip",
+        "repository": "https://github.com/oss-review-toolkit/ort",
+        "name": "Sebastian Schuberth",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/arkivanov",
+        "archive_path": "repo_archives/Decompose.zip",
+        "repository": "https://github.com/arkivanov/Decompose",
+        "name": "Arkadii Ivanov",
+        "email": "arkann1985@gmail.com"
+    },
+    {
+        "github_profile": "https://github.com/mfazekas",
+        "archive_path": "repo_archives/maps.zip",
+        "repository": "https://github.com/rnmapbox/maps",
+        "name": "Mikl\u00f3s Fazekas",
+        "email": "mfazekas@szemafor.com"
+    },
+    {
+        "github_profile": "https://github.com/bpellin",
+        "archive_path": "repo_archives/KeePassDX.zip",
+        "repository": "https://github.com/Kunzisoft/KeePassDX",
+        "name": null,
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/oshai",
+        "archive_path": "repo_archives/jasync-sql.zip",
+        "repository": "https://github.com/jasync-sql/jasync-sql",
+        "name": "Ohad Shai",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/lockiechen",
+        "archive_path": "repo_archives/bk-ci.zip",
+        "repository": "https://github.com/TencentBlueKing/bk-ci",
+        "name": "lockiechen",
+        "email": null
+    },
+    {
+        "github_profile": "https://github.com/JakeWharton",
+        "archive_path": "repo_archives/sqldelight.zip",
+        "repository": "https://github.com/sqldelight/sqldelight",
+        "name": "Jake Wharton",
+        "email": "j@ke.fyi"
+    }
+]
